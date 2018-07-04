@@ -4,7 +4,7 @@
     <name>hypeCli</name>
     <id>hypeCli</id>
     <description>CLI tools for working with hypeJunction plugins</description>
-   <version type="dist">1.0.1</version>
+   <version type="dist">1.0.2</version>
 
     <author>Ismayil Khayredinov (info@hypejunction.com)</author>
     <website>http://hypeJunction.com</website>
