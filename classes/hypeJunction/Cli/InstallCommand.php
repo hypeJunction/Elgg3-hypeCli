@@ -89,6 +89,7 @@ class InstallCommand extends Command {
 			'core' => [
 				'hypeVue',
 				'hypeStash',
+				'hypeTwig',
 				'hypeCapabilities',
 				'hypeLists',
 				'hypeTime',
@@ -141,8 +142,9 @@ class InstallCommand extends Command {
 			],
 			'theming' => [
 				'hypeHero',
-				//'hypeFonts',
-				//'hypeTheme',
+				'hypeTheme',
+				'hypeSlider',
+				'hypeMarkup',
 			],
 		];
 	}
