@@ -144,7 +144,7 @@ class InstallCommand extends Command {
 				'hypeHero',
 				'hypeTheme',
 				'hypeSlider',
-				'hypeMarkup',
+				
 			],
 		];
 	}
