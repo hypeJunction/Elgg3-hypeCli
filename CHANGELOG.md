@@ -1,3 +1,13 @@
+<a name="1.1.0"></a>
+# [1.1.0](https://github.com/hypeJunctionPro/Elgg3-hypeCli/compare/1.0.3...1.1.0) (2018-11-12)
+
+
+### Features
+
+* **install:** add new plugins to list ([e410395](https://github.com/hypeJunctionPro/Elgg3-hypeCli/commit/e410395))
+
+
+
 <a name="1.0.3"></a>
 ## [1.0.3](https://github.com/hypeJunctionPro/Elgg3-hypeCli/compare/1.0.2...1.0.3) (2018-07-08)
 
