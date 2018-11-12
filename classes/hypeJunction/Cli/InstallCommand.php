@@ -126,7 +126,7 @@ class InstallCommand extends Command {
 				'hypeInvite',
 				'hypeModerator',
 				'hypeMenus',
-				'google_client',
+				'hypeCaptcha',
 			],
 			'commerce' => [
 				'hypePayments',
@@ -139,6 +139,7 @@ class InstallCommand extends Command {
 				'hypePaypalSubscriptions',
 				'hypeBraintreeSubscriptions',
 				'hypeDownloads',
+				'hypeSatis',
 			],
 			'theming' => [
 				'hypeHero',
